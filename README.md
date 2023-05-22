@@ -1,0 +1,2 @@
+# FirstDjangoProject
+Первый запуск django
